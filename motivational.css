@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+.poster{
+    font-family: 'Noto Sans', sans-serif;
+    width: 50%;    
+    margin-left: 350px;
+    color: white;
+    text-align: center;
+   
+}
+.motivational-img{
+    border: white solid 5px;
+    width: 100%;
+    margin-top: 100px;
+    
+}
+h1{
+    
+    font-size: 2rem;
+}
